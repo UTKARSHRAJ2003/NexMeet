@@ -1,0 +1,21 @@
+{
+  "name": "backned",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "utkarshraj",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.15.0",
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.8.1",
+    "status": "^0.0.13"
+  }
+}
